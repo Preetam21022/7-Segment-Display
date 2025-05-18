@@ -9,8 +9,8 @@
         This was uploaded by a youtube channel: <h3><a href="https://youtube.com/@greatscottlab?si=hlbHd8CvzHosgsCy"><b><u>GreatScott</u></b></a>
         </h3></p>
 
-<p>Here is the video
+<p>Here is the video: 
 <a href="https://youtu.be/a6D6H6SLa_c?si=XDRh-U6di5sAnWES"><b><u>"Electronics Basics #7: 7 Segment Display"</u></b></a>
-<p>The code and sketch is also uploaded by: <h3><a href="https://youtube.com/@greatscottlab?si=hlbHd8CvzHosgsCy"><b><u>GreatScott</u></b></a></h3></p>
+<p>The schematics are also uploaded by: <h3><a href="https://youtube.com/@greatscottlab?si=hlbHd8CvzHosgsCy"><b><u>GreatScott</u></b></a></h3></p>
   </body>  
 </html>
